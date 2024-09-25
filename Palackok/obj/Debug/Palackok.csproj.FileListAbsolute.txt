@@ -1,0 +1,7 @@
+D:\PETRIK\2024-25\C#\Palackok\Palackok\Palackok\obj\Debug\Palackok.csproj.AssemblyReference.cache
+D:\PETRIK\2024-25\C#\Palackok\Palackok\Palackok\obj\Debug\Palackok.csproj.CoreCompileInputs.cache
+D:\PETRIK\2024-25\C#\Palackok\Palackok\Palackok\bin\Debug\Palackok.exe.config
+D:\PETRIK\2024-25\C#\Palackok\Palackok\Palackok\bin\Debug\Palackok.exe
+D:\PETRIK\2024-25\C#\Palackok\Palackok\Palackok\bin\Debug\Palackok.pdb
+D:\PETRIK\2024-25\C#\Palackok\Palackok\Palackok\obj\Debug\Palackok.exe
+D:\PETRIK\2024-25\C#\Palackok\Palackok\Palackok\obj\Debug\Palackok.pdb
